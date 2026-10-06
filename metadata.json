@@ -1,0 +1,6 @@
+{
+  "name": "FINDIT AI",
+  "description": "AI-powered college Lost & Found platform for reporting, smart semantic matching, ownership verification, and campus item recovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
